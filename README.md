@@ -52,15 +52,3 @@ This repository is a template for an "Introductions" website to be hosted with G
 In this updated guide, the customization of the website is done through GitHub's web interface, eliminating the need 
 to clone the repository locally. This approach is straightforward and convenient for making quick edits or for users 
 less familiar with Git.
-
-## Eric’s Comments
-It took quite a lot of time to craft the ChatGPT prompts, but I like the resulting instructions. Note that this 
-repository is the GitHub template repository that you should use in the instructions above. 
-
-There should also be a step 6. ChatGPT did not know that I added a README.md file.
-
-### Step 6: Update README.md File
-
-- Remove all of the text in your README.md file.
-- Add your application name and add yourself as the Author.
-- Add credits for Eric Pogue, ChatGPT, and for this site where you utilized the template.
