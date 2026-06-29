@@ -1,8 +1,8 @@
 # Introductions
-This repository is a template for an Introductions website to be hosted with GitHub Pages. Instructions for using the 
+This repository is a template for an Introductions website to be hosted with GitHub Pages. A video tutorial and instructions for using the 
 template, editing the content, and hosting the website are provided below.
 
-### Video Tutorial
+### Video Tutorial:
 [![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fthumbnail.png?alt=media&token=391f766b-bbcf-4d7e-8111-9fd4141c607a)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
 
 ### Deploying an Introductions Website using GitHub Pages:
