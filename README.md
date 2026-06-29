@@ -36,3 +36,8 @@ template, editing the content, and hosting the website are provided below.
 - To update your site, repeat the process starting with Step 3 to edit files and commit changes
 - GitHub Pages will automatically update your site with these changes, although it may take a few minutes for the 
 updates to take effect
+
+
+[![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
+
+<img src="https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052" alt="Watch the intro video">
