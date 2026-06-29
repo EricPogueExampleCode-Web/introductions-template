@@ -40,4 +40,6 @@ updates to take effect
 
 [![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
 
-<img src="https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052" alt="Watch the intro video">
+[Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
+
+[![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fthumbnail.png?alt=media&token=391f766b-bbcf-4d7e-8111-9fd4141c607a)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
