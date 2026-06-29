@@ -2,6 +2,9 @@
 This repository is a template for an Introductions website to be hosted with GitHub Pages. Instructions for using the 
 template, editing the content, and hosting the website are provided below.
 
+### Video Tutorial
+[![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fthumbnail.png?alt=media&token=391f766b-bbcf-4d7e-8111-9fd4141c607a)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
+
 ### Deploying an Introductions Website using GitHub Pages:
 #### Step 1: Use this repository as a template to create a repository named “introductions” in your GitHub account.
 - Click on the "Use this template" button on the template repository's page
@@ -38,8 +41,5 @@ template, editing the content, and hosting the website are provided below.
 updates to take effect
 
 
-[![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
 
-[Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
 
-[![Watch the video](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fthumbnail.png?alt=media&token=391f766b-bbcf-4d7e-8111-9fd4141c607a)](https://firebasestorage.googleapis.com/v0/b/lewus-santorini-project.firebasestorage.app/o/uploads%2F13LbFNQ8GCaix2J0FmN37F6nheC2%2Fintroductions.mp4?alt=media&token=476dd6f9-c4e0-4cf1-be1f-9ad3d6eeb052)
