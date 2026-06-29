@@ -19,10 +19,10 @@ template, editing the content, and hosting the website are provided below.
 
 #### Step 3: Customize Your Website Directly on GitHub
 - Navigate to your repository's main page on GitHub
-- Locate the `index.html`
-- Click on the file to view it, then click the pencil icon in the top right to edit the `index.html` file
-- After making your changes in the web editor, scroll down to the "Commit changes" section
-- Enter a commit message that describes your changes
+- Locate the `index.html` or `README.md`
+- Click on the file to view it, then click the pencil icon in the top right to edit the the file
+- After making your changes in the web editor, scroll down to "Commit changes"
+- Enter a commit message
 - Choose to commit directly to the main branch
 - Click "Commit changes"
 
